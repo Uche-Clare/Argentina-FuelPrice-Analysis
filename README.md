@@ -24,8 +24,7 @@ To reduce redundancy and improve data organization, I applied data normalization
  - Which fuel types exhibit the highest price volatility?
 
 ### Relationship Table 
-*insert image here
-
+![Relationship Table](https://github.com/Uche-Clare/Argentina-FuelPrice-Analysis/blob/e2159f0055dda24a7a3cb890b4c19e651901772a/Relationship%20Diagram.png)
 ### Key Findings 📄
 Following the result of the guide questions from the investigation, these were my key findings :-
 - Overall Trend: There has been a continuous upward trend in fuel prices each year from 2016 to 2023.
